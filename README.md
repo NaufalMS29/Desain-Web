@@ -1,4 +1,4 @@
-Berikut adalah tampilan Website saya yang bernama Shoesteps. Website ini adalah website penjualan toko sepatu, dan jersey bola dengan harga terjangkau dan terpercaya
+Berikut adalah tampilan Website saya yang bernama Shoesteps. Website ini adalah website penjualan toko sepatu, dan jersey Olahraga dengan harga terjangkau dan terpercaya
 
 
 Tampilan Header, Navbar, dan Home
