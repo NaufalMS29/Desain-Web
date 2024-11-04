@@ -1,4 +1,5 @@
 <-- Shoesteps -->
+
 Website ini dikembangkan sebagai tugas Ujian Tengah Semester (UTS) untuk Mata Kuliah *Desain Web*. Proyek ini mencakup implementasi desain web yang responsif, fungsional, dan menarik untuk menunjukkan pemahaman dan keterampilan dalam bidang desain web
 
 <-- Informasi Proyek -->
@@ -8,6 +9,7 @@ Website ini dikembangkan sebagai tugas Ujian Tengah Semester (UTS) untuk Mata Ku
 - *Dosen* : Adi Wahyu Pribadi, S.Si., M.Kom
 
 <-- Tujuan Proyek -->
+
 Tujuan utama dari pembuatan website ini adalah untuk memenuhi nilai UTS dalam mata kuliah Desain Web dan menunjukkan pemahaman dalam konsep dasar hingga tingkat lanjut dalam desain web, seperti:
 
 - Desain responsif menggunakan CSS
